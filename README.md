@@ -5,7 +5,7 @@ Are you tired of your colleagues because they never lock their workstations when
 Just get an ATMEGA32U4, make your cross-platform keyboard-like locker device and teach them a lesson!
 
 You can get one for 5-6$ with a really sophisticated case like this:
-![alt text](https://raw.githubusercontent.com/kovacs-andras/BadUSB-MultiLocker/master/atmega32u4.jpg)
+![Lily Go](atmega32u4.jpg)
 
 ## MAKER SURE YOU DON'T VIOLATE ANY OF YOUR COMPANY POLICIES!
 
